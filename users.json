@@ -1,0 +1,37 @@
+[
+  {
+    "userId": "sanjayaa",
+    "jobTitleName": "Developer",
+    "firstName": "Sanjaya",
+    "lastName": "Amarasinghe",
+    "emailAddress": "sanjaya.amarasinghe@syscolabs.com"
+  },
+  {
+    "userId": "faizulh",
+    "jobTitleName": "Developer",
+    "firstName": "Faizul",
+    "lastName": "Hasan",
+    "emailAddress": "Faizul.Hasan@syscolabs.com"
+  },
+  {
+    "userId": "binujayap",
+    "jobTitleName": "Developer",
+    "firstName": "Binujaya",
+    "lastName": "Padmakumara",
+    "emailAddress": "Binujaya.Padmakumara@syscolabs.com"
+  },
+  {
+    "userId": "tharindum",
+    "jobTitleName": "Developer",
+    "firstName": "Tharindu",
+    "lastName": "Munasinghe",
+    "emailAddress": "tharindu.munasinghe@syscolabs.com"
+  },
+  {
+    "userId": "dinanjanag",
+    "jobTitleName": "Developer",
+    "firstName": "Dinanjana",
+    "lastName": "Gunarathne",
+    "emailAddress": "dinanjana.gunarathne@syscolabs.com"
+  }
+]
